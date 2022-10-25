@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on [IT](IT)
-
 - 💬 Ask me about all things **Java & spring**
 
 - 📫 How to reach me **nader.ayed@esprit.tn**
